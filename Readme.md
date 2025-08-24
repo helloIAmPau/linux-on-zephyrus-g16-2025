@@ -1,5 +1,13 @@
 # Linux on Zephyrus G16 (2025)
 
+## Full clone the repo
+
+```
+git clone git@github.com:helloIAmPau/linux-on-zephyrus-g16-2025.git
+cd linux-on-zephyrus-g16-2025
+git submodule update --init
+```
+
 ## Base system
 
 Ubuntu 25.04

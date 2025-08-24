@@ -1,4 +1,4 @@
 *.swp
-gu605c-spi-cs-gpio.asl
+gu605c-spi-cs-gpio.aml
 kernel/
 asus-gu605c-acpi.cpio
